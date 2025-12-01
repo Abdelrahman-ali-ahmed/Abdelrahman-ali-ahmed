@@ -7,7 +7,8 @@ I have strong experience building modern web applications using **React**, **Nex
 I’m currently seeking new opportunities where I can continue learning, building projects, and gaining more experience as a Frontend Developer.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hW8oIlIDkS?theme=dark&font=MedievalSharp)
-![Certificate](meta-front-end-developer-certificate-1.png)
+<img src="meta-front-end-developer-certificate-1.png" alt="Certificate" width="400" height="auto"/>
+
 
 
 
